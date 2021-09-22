@@ -12,3 +12,9 @@ Pic 1 :
 Pic 2 :
 
 ![png__2](https://user-images.githubusercontent.com/46424717/134296682-e65942c1-ea28-435d-880e-97f48140f242.PNG)
+
+
+References : 
+
+https://github.com/SuperV1234/Tutorials
+https://www.sfml-dev.org/learn.php
